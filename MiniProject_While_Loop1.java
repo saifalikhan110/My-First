@@ -1,6 +1,6 @@
 import java.util.*;
 
-class MiniProject_While_Loop1{
+class MiniProject_While_Loop{
 	
 	public static void main(String args[]){
 		
